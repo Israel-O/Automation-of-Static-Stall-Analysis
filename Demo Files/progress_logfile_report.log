@@ -1,0 +1,124 @@
+    Checking length of row
+Row length (elements only) : 16
+     Creating 16Design Points
+Design point success
+			Project Saved   Importing parameter from Excel
+    Checking length of row
+Row length (elements only) : 16
+DesignPoint Data Retained 
+
+			DesignPoint: 0
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 1
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 2
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 3
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 4
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 5
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 6
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 7
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 8
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 9
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 10
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 11
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 12
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 13
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 14
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+DesignPoint Data Retained 
+
+			DesignPoint: 15
+Imported Parameter: /Parameters/Parameter:P1
+Imported Parameter: /Parameters/Parameter:P2
+Imported Parameter: /Parameters/Parameter:P3
+Imported Parameter: /Parameters/Parameter:P6
+			Project Saved    Calculating...
+    update succeeded
+			Project Saved      Report Exported
+		Report Exported to Work Directory      Results.csv Exported
+			Goodbye

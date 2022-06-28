@@ -1,0 +1,16 @@
+Airfoil: NACA 4412
+
+Velocity (m/s): 60	AOA's (deg): 0.000 2.000 4.000 6.000 8.000 10.000 12.000 14.000 16.000 18.000 20.000 22.000 24.000 26.000 28.000 30.000 
+
+Max Lift Force (N): 6852.0758	AOA: 30
+Min Lift Force (N): 959.9197	AOA: 0
+Max Drag Force (N): 3094.7295	AOA: 30
+Min Drag Force (N): 24.1687	AOA: 0
+
+Critical Angle: 18 deg
+
+Conclusion: Stall occurs at 18 degrees
+
+Other potential critical angles (deg): 18 24 
+
+*See report for more details
