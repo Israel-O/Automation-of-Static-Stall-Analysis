@@ -9,19 +9,24 @@ An attempt to develop a script to automate the analysis of any airfoil profile l
 
 ### Demonstartion
 
-**sim video**
+
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Airfoil%20LES%20Simulation%20NACA4412_1.gif?raw=true)
+
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Airfoil-Profile.png?raw=true)
 
 ### Workbench Project Schematic
-**Image**
+
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/ProjectSchematic.png?raw=true)
 
 ### Mesh Setup
-**Mesh Image**
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Mesh.png?raw=true)
 
 Mesh Nodes: 161,678 nodes
 Mesh Elements: 320,221 elements
 
-**Image**
-**Image**
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Mesh%20Sizing.png?raw=true)
+
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Inflation%20Layer.png?raw=true)
 - All triangles method
 - Edge Sizing
 - Inflation layer
@@ -33,18 +38,15 @@ Time: Unsteady, 2nd-Order Implicit
 Material: air (Fluid)
 Turbulence Model: SST k-Ω model
 
-**Image**
-
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Turbulence%20Model.png?raw=true)
 ### Boundary Conditions
 Velocity-inlet (m/s): Parameter 6 - V_in
 Pressure-outlet (Pa): 0 Pa
 
-**Image**
-
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/InletOutlet.drawio.png?raw=true)
 ### Process Flowchart
 
-**Image**
-
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Program.drawio.png?raw=true)
 ### Proposed Applications
 - Design automation
 - Complex parameterization
