@@ -18,6 +18,7 @@ An attempt to develop a script to automate the analysis of any airfoil profile l
 ![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/ProjectSchematic.png?raw=true)
 
 ### Mesh Setup
+Unstructed grid
 ![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/Mesh.png?raw=true)
 
 Mesh Nodes: 161,678 nodes
