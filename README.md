@@ -54,3 +54,10 @@ Pressure-outlet (Pa): 0 Pa
 - Machine learning
 - Generative design
 - Rapid postprocessing
+### Sample MATLAB Output
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/PrePost-Processor_Page_1.png?raw=true)
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/PrePost-Processor_Page_2.png?raw=true)
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/PrePost-Processor_Page_3.png?raw=true)
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/PrePost-Processor_Page_4.png?raw=true)
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/PrePost-Processor_Page_5.png?raw=true)
+![image](https://github.com/Israel-O/Automation-of-Static-Stall-Analysis/blob/main/Images/PrePost-Processor_Page_6.png?raw=true)
